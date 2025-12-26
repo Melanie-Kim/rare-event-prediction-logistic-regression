@@ -1,7 +1,7 @@
 # rare-event-prediction-logistic-regression
 
 **Overview**
-- This project builds a rare-event prediction model for escalation interactions using logistic regression. The workflow emphasizes precision-first outreach selection by applying a threshold-based cutoff that meets a defined precision floor. Includes feature engineering, encoding, and audit artifacts
+- This project builds a rare-event prediction model for escalation interactions using logistic regression in Databricks. The workflow emphasizes precision-first outreach selection by applying a threshold-based cutoff that meets a defined precision floor. Includes feature engineering, encoding, and audit artifacts
 
 **Key objectives**:
 
